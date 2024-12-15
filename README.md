@@ -25,8 +25,8 @@ Before you begin, ensure that you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/devAaus/todo-task.git
+   cd todo-task
    ```
 
 2. **Install dependencies using Bun**:
